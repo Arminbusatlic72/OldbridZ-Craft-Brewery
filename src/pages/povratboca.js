@@ -13,7 +13,7 @@ const SecondPage = () => (
     <Link to="/">Go back to the homepage</Link>
     <div className={styles.textCenter}>
       <StaticImage
-        src="../images/Ticket2.jpg"
+        src="../images/ticket2.jpg"
         loading="eager"
         width={800}
         quality={95}
